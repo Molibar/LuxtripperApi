@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Luxtripper.Api.WcfServices.HotelService" CodeBehind="HotelService.svc.cs" %>
